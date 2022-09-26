@@ -13,6 +13,7 @@ public class wusgood {
      * @param args the command line arguments
      */
     public static void main(String args[]) {
+        //THIS IS OUR PROGRAM TESTING STRING VALUES
         // TODO code application logic here
         String str1;
         //DECLARATION
